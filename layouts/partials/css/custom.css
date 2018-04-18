@@ -210,8 +210,9 @@ body {
 }
 
 .post-title{
-		margin-top: 0;
+		margin-top: 55px;
 		margin-bottom: 2em;
+        text-align: center;
 }
 
 .post-title h1 {
