@@ -258,3 +258,13 @@ body {
 	}
 }
 
+.blink {
+  animation: blinker 1s linear 3;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
