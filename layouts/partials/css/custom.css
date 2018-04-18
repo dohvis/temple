@@ -62,7 +62,7 @@ body {
 }
 
 .posts {
-	font-family: verdana,arial,helvetica,sans-serif;
+	font-family: "Open Sans",sans-serif;
 	list-style-type:none;
 	padding-left: 1em;
 }
@@ -142,7 +142,7 @@ body {
 }
 
 .post {
-	font-family: proxima-nova,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+	font-family: "Open Sans",sans-serif;
 	color:#484848;
 	letter-spacing:normal;
 	padding-left: .5em;
@@ -173,6 +173,7 @@ body {
 
 .post code {
   background-color: #EEE;
+  font-family: "Open Sans",sans-serif;
 }
 
 .post a {
@@ -256,3 +257,4 @@ body {
 		display: block;
 	}
 }
+
