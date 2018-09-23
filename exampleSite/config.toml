@@ -24,3 +24,6 @@ copyright = "(c) You -- 2017"
   email = "your@email.com"
   gaid = "Your Google Analytics ID"
   twitter = "twitterID"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
